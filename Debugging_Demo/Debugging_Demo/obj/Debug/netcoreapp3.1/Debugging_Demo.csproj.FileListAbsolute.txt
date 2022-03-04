@@ -11,3 +11,17 @@ C:\Users\johnd\Desktop\TA_repo\24_Debugging_Code\Debugging_Demo\Debugging_Demo\o
 C:\Users\johnd\Desktop\TA_repo\24_Debugging_Code\Debugging_Demo\Debugging_Demo\obj\Debug\netcoreapp3.1\Debugging_Demo.dll
 C:\Users\johnd\Desktop\TA_repo\24_Debugging_Code\Debugging_Demo\Debugging_Demo\obj\Debug\netcoreapp3.1\Debugging_Demo.pdb
 C:\Users\johnd\Desktop\TA_repo\24_Debugging_Code\Debugging_Demo\Debugging_Demo\obj\Debug\netcoreapp3.1\Debugging_Demo.genruntimeconfig.cache
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\bin\Debug\netcoreapp3.1\Debugging_Demo.exe
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\bin\Debug\netcoreapp3.1\Debugging_Demo.deps.json
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\bin\Debug\netcoreapp3.1\Debugging_Demo.runtimeconfig.json
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\bin\Debug\netcoreapp3.1\Debugging_Demo.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\bin\Debug\netcoreapp3.1\Debugging_Demo.dll
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\bin\Debug\netcoreapp3.1\Debugging_Demo.pdb
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\obj\Debug\netcoreapp3.1\Debugging_Demo.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\obj\Debug\netcoreapp3.1\Debugging_Demo.AssemblyInfo.cs
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\obj\Debug\netcoreapp3.1\Debugging_Demo.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\obj\Debug\netcoreapp3.1\Debugging_Demo.dll
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\obj\Debug\netcoreapp3.1\Debugging_Demo.pdb
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\obj\Debug\netcoreapp3.1\Debugging_Demo.genruntimeconfig.cache
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\obj\Debug\netcoreapp3.1\Debugging_Demo.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Debugging_Demo\Debugging_Demo\obj\Debug\netcoreapp3.1\Debugging_Demo.GeneratedMSBuildEditorConfig.editorconfig
