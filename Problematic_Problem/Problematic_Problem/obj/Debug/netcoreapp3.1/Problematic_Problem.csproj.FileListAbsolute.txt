@@ -1,0 +1,14 @@
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\obj\Debug\netcoreapp3.1\Problematic_Problem.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\obj\Debug\netcoreapp3.1\Problematic_Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\obj\Debug\netcoreapp3.1\Problematic_Problem.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\obj\Debug\netcoreapp3.1\Problematic_Problem.AssemblyInfo.cs
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\obj\Debug\netcoreapp3.1\Problematic_Problem.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\bin\Debug\netcoreapp3.1\Problematic_Problem.exe
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\bin\Debug\netcoreapp3.1\Problematic_Problem.deps.json
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\bin\Debug\netcoreapp3.1\Problematic_Problem.runtimeconfig.json
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\bin\Debug\netcoreapp3.1\Problematic_Problem.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\bin\Debug\netcoreapp3.1\Problematic_Problem.dll
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\bin\Debug\netcoreapp3.1\Problematic_Problem.pdb
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\obj\Debug\netcoreapp3.1\Problematic_Problem.dll
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\obj\Debug\netcoreapp3.1\Problematic_Problem.pdb
+C:\Users\johnd\Desktop\Repos\24_CSharp_Debugging\Problematic_Problem\Problematic_Problem\obj\Debug\netcoreapp3.1\Problematic_Problem.genruntimeconfig.cache
